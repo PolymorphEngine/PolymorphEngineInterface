@@ -1,0 +1,5 @@
+<Scene name="Sample scene" id="edc791e6f5" first="True" build="True">
+    <Entities>
+        <Entity name="Text" id="b780a35eb7" path=".Entities/Text-b780a35eb7.pcf.entity" />
+    </Entities>
+</Scene>

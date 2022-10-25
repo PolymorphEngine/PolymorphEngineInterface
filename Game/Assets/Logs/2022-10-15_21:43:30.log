@@ -1,0 +1,6 @@
+21:43:30 : MINOR | Session ID: 1
+21:43:30 : MINOR | Received self id : d148f97a52
+21:43:30 : MAJOR | Spawning player with id : a36d592f5a, with NB: 1
+21:43:30 : MAJOR | Spawning at coords: 200, 500
+21:43:30 : MAJOR | Spawning player with id : d148f97a52 which is self, with NB: 2
+21:43:30 : MAJOR | Spawning at coords: 200, 500

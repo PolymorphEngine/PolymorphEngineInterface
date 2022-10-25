@@ -1,0 +1,60 @@
+17:29:11 : DEBUG | Received self id : 188b8b68f1
+17:29:11 : MAJOR | Spawning player with id : 87126e52d2, with NB: 1
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+17:29:11 : MAJOR | Spawning player with id : 87126e52d2, with NB: 1
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+17:29:11 : MAJOR | Spawning player with id : 188b8b68f1 which is self, with NB: 2
+17:29:11 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Engine': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+17:29:11 : MAJOR | Spawning player with id : 188b8b68f1 which is self, with NB: 2
+17:29:11 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Engine': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+17:29:11 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+17:29:14 : MAJOR | [Polymorph Engine] Object reference not set to an instance: this maybe occurs because you need to set a reference in configuration or in interface.
+17:29:14 : MAJOR | [Polymorph Engine] Object reference not set to an instance: this maybe occurs because you need to set a reference in configuration or in interface.
+17:29:16 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+17:29:16 : DEBUG | Spawning mob with id : 1d46cf2a86
+17:29:16 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+17:29:16 : DEBUG | Spawning mob with id : 1d46cf2a86
+17:29:19 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:19 : DEBUG | Spawning projectile with id : a632d44d34
+17:29:19 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:19 : DEBUG | Spawning projectile with id : a632d44d34
+17:29:20 : MAJOR | [Polymorph Engine] Object reference not set to an instance: this maybe occurs because you need to set a reference in configuration or in interface.
+17:29:20 : MAJOR | [Polymorph Engine] Object reference not set to an instance: this maybe occurs because you need to set a reference in configuration or in interface.
+17:29:21 : MAJOR | [Polymorph Engine] Object reference not set to an instance: this maybe occurs because you need to set a reference in configuration or in interface.
+17:29:21 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:21 : DEBUG | Spawning projectile with id : 435bfd11b0
+17:29:21 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:21 : DEBUG | Spawning projectile with id : 435bfd11b0
+17:29:22 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:22 : DEBUG | Spawning projectile with id : 4b1142a331
+17:29:22 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:22 : DEBUG | Spawning projectile with id : 4b1142a331
+17:29:25 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:25 : DEBUG | Spawning projectile with id : ab366aa728
+17:29:25 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:25 : DEBUG | Spawning projectile with id : ab366aa728
+17:29:27 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:27 : DEBUG | Spawning projectile with id : eacbf0ec45
+17:29:27 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+17:29:27 : DEBUG | Spawning projectile with id : eacbf0ec45

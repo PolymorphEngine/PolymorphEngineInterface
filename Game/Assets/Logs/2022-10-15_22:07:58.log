@@ -1,0 +1,7 @@
+22:07:58 : MINOR | Session ID: 0
+22:07:58 : MINOR | Received self id : b3ddff0857
+22:08:01 : MAJOR | Spawning player with id : b3ddff0857 which is self, with NB: 1
+22:08:01 : MAJOR | Spawning at coords: 200, 200
+22:08:01 : MAJOR | Spawning player with id : 18f3b0e975, with NB: 2
+22:08:01 : MAJOR | Spawning at coords: 200, 400
+22:08:43 : MAJOR | Game over

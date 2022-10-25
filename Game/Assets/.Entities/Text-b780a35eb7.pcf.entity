@@ -1,0 +1,35 @@
+<Entity name="Text" id="b780a35eb7" active="True" prefab="False" prefab_child="False" prefab_id="" was_prefab="False">
+    <Layer layer="Default" />
+    <Tags />
+    <Components>
+        <Component type="Transform" enabled="True">
+            <Property name="position" type="Vector3d" default="True">
+                <Vector x="150" y="150" z="0" />
+            </Property>
+            <Property name="rotation" type="Vector3d" default="True">
+                <Vector x="0" y="0" z="0" />
+            </Property>
+            <Property name="scale" type="Vector3d" default="True">
+                <Vector x="1" y="1" z="1" />
+            </Property>
+            <Property name="children" type="List" default="True" elemtype="RefEntity" />
+        </Component>
+        <Component type="TextRenderer" enabled="True">
+            <Property name="text" type="Serializable" default="True" subtype="TextModule">
+                <Property name="_textString" type="String" default="False" value="Score: 0" />
+                <Property name="_fontFilepath" type="String" default="False" value="" />
+                <Property name="_fontSize" type="Float" default="False" value="40" />
+                <Property name="_lineSpacing" type="Float" default="False" value="3" />
+                <Property name="_color" type="Serializable" default="True" subtype="Color">
+                    <Property name="r" type="Int" default="False" value="255" />
+                    <Property name="g" type="Int" default="False" value="255" />
+                    <Property name="b" type="Int" default="False" value="255" />
+                    <Property name="a" type="Int" default="False" value="255" />
+                </Property>
+            </Property>
+            <Property name="offset" type="Vector2d" default="True">
+                <Vector x="0" y="0" />
+            </Property>
+        </Component>
+    </Components>
+</Entity>

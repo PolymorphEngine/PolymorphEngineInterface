@@ -1,3 +1,4 @@
 *.so
 Raylib-Project-Template
 cmake-build-debug
+*.log

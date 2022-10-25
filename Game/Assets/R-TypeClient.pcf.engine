@@ -1,0 +1,46 @@
+<Engine>
+    <EngineSettings>
+        <Layers>
+            <Layer value="TileMap" />
+            <Layer value="Default" />
+            <Layer value="Ui-WorldSpace" />
+            <Layer value="Ui-ScreenSpace" />
+        </Layers>
+        <ComponentExecutionOrder>
+            <Component value="EventsSystem" />
+            <Component value="Physics2d" />
+            <Component value="Collider2d" />
+            <Component value="Default" />
+            <Component value="SpriteRenderer" />
+        </ComponentExecutionOrder>
+        <PluginsExecutionOrder>
+            <Plugin value="physics-3D" />
+            <Plugin value="physics-2D" />
+            <Plugin value="render-3D" />
+            <Plugin value="render-2D" />
+        </PluginsExecutionOrder>
+        <PhysicsSettings>
+            <Gravity2D x="0" y="-9.81" />
+            <Gravity3D x="0" y="-9.81" z="0" />
+        </PhysicsSettings>
+        <AudioSettings mastervolume="100" musicvolume="100" sfxvolume="100" />
+        <VideoSettings defaultmode="false" maxfps="60" fullscreen="false" resizable="true" bitsperpixel="64">
+            <Resolution x="1920" y="1080" />
+            <AntiAliasing enabled="true" level="2" />
+        </VideoSettings>
+        <Debug enabled="false" logdir="./Editor/tmp" />
+    </EngineSettings>
+    <Plugins>
+        <Plugin name="raylib-render-2D" enabled="true"/>
+        <Plugin name="raylib-render-core" enabled="true"/>
+        <Plugin name="render-core" enabled="true"/>
+        <Plugin name="render-2D" enabled="true"/>
+    </Plugins>
+    <Scenes>
+        <Scene name="Sample scene" path="Scenes/Sample scene.pcf.scene" id="edc791e6f5" />
+    </Scenes>
+    <Prefabs>
+      </Prefabs>
+    <Templates>
+    </Templates>
+</Engine>

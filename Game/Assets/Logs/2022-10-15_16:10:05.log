@@ -1,0 +1,26 @@
+16:10:12 : DEBUG | Received self id : c2cca677b3
+16:10:12 : DEBUG | Spawning player with id : c2cca677b3 which is self
+16:10:12 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+16:10:12 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+16:10:12 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+16:10:12 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+16:10:12 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+16:10:12 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+16:10:17 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+16:10:17 : DEBUG | Spawning mob with id : 7b929fe45f
+16:10:21 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+16:10:21 : DEBUG | Spawning mob with id : 7b929fe45f
+16:10:26 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:26 : DEBUG | Spawning projectile with id : 1ece91466e
+16:10:26 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:26 : DEBUG | Spawning projectile with id : 694c5e1f90
+16:10:27 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:27 : DEBUG | Spawning projectile with id : 16e6a7e651
+16:10:27 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:27 : DEBUG | Spawning projectile with id : c038f27e5e
+16:10:28 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:28 : DEBUG | Spawning projectile with id : 8d056dca7a
+16:10:28 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:28 : DEBUG | Spawning projectile with id : ee5b56feeb
+16:10:28 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:10:28 : DEBUG | Spawning projectile with id : e1e4391c24

@@ -1,0 +1,1318 @@
+12:21:31 : DEBUG | Received self id : 716aa59da5
+12:21:31 : DEBUG | Spawning player with id : 716aa59da5 which is self
+12:21:31 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+12:21:31 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+12:21:31 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+12:21:31 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+12:21:31 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+12:21:31 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+12:21:35 : DEBUG | Spawning player with id : 716aa59da5 which is self
+12:21:35 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+12:21:35 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+12:21:35 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+12:21:35 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+12:21:35 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+12:21:35 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+12:21:36 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+12:21:36 : DEBUG | Spawning mob with id : 4c5fe4f267
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:37 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:37 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:38 : DEBUG | Player 716aa59da5 requesting to move to direction 3
+12:21:38 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:39 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:39 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+12:21:40 : DEBUG | Spawning mob with id : 4c5fe4f267
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:40 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:40 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 0, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 requesting to move to direction 4
+12:21:41 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:41 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 1, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:42 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 0
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:43 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 1
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:44 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 2
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:45 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:53 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:53 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 requesting to move to direction 1
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 2, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 1, 3
+12:21:57 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3
+12:22:01 : DEBUG | Player 716aa59da5 move to 0, 3

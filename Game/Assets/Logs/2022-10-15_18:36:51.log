@@ -1,0 +1,14 @@
+18:36:58 : MAJOR | Spawning player with id : 346b754d36, with NB: 1
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+18:36:58 : MAJOR | Spawning player with id : ff20e15b9b, with NB: 2
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+18:36:58 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+18:37:03 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+18:37:03 : DEBUG | Spawning mob with id : 2736399bc9

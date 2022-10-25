@@ -1,0 +1,49 @@
+16:56:28 : DEBUG | Received self id : d12d95639a
+16:56:28 : DEBUG | Spawning player with id : 1044115f3f
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+16:56:28 : DEBUG | Spawning player with id : 1044115f3f
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+16:56:28 : DEBUG | Spawning player with id : d12d95639a which is self
+16:56:28 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Engine': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+16:56:28 : DEBUG | Spawning player with id : d12d95639a which is self
+16:56:28 : DEBUG | In component 'PlayerShooterIM': Ref named 'gameManager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'manager': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'networker': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Score': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerManager': Ref named 'Lifes': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Engine': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerAnimator': Ref named 'Weapon': has missing value or not found
+16:56:28 : DEBUG | In component 'PlayerMoverIM': Ref named 'gameManager': has missing value or not found
+16:56:28 : MAJOR | No animation to start
+16:56:28 : MAJOR | No animation to start
+16:56:29 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:29 : DEBUG | Spawning projectile with id : f4d1aa46e6
+16:56:29 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:29 : DEBUG | Spawning projectile with id : f4d1aa46e6
+16:56:31 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:31 : DEBUG | Spawning projectile with id : 464df77df5
+16:56:31 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:31 : DEBUG | Spawning projectile with id : 464df77df5
+16:56:33 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+16:56:33 : DEBUG | Spawning mob with id : 1c377d3665
+16:56:33 : DEBUG | In component 'MobNM': Ref named 'manager': has missing value or not found
+16:56:33 : DEBUG | Spawning mob with id : 1c377d3665
+16:56:35 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:35 : DEBUG | Spawning projectile with id : ef1437c706
+16:56:35 : DEBUG | In component 'ProjectileNM': Ref named 'networkManager': has missing value or not found
+16:56:35 : DEBUG | Spawning projectile with id : ef1437c706
