@@ -33,12 +33,8 @@ if(NOT TARGET PolymorphEngine)
 endif()
 
 
+include(Plugins/FindPlugins.cmake)
 
-##add_subdirectory(Engine)
-add_subdirectory(Plugins/render-2D)
-add_subdirectory(Plugins/render-core)
-add_subdirectory(Plugins/raylib-render-2D)
-add_subdirectory(Plugins/raylib-render-core)
 
 file(GLOB_RECURSE SCRIPTS_SRC Game/Scripts/src/*.cpp)
 file(GLOB_RECURSE SCRIPTS_ICL Game/Scripts/include/*.hpp)
