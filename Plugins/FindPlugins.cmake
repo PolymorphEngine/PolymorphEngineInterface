@@ -3,7 +3,7 @@ if(NOT TARGET render-2D)
 
     FetchContent_Declare(
             render-2D
-            GIT_REPOSITORY git@github.com:PolymorphEngine/render-2D.git
+            GIT_REPOSITORY https://github.com/PolymorphEngine/render-2D.git
             GIT_TAG main
     )
 
@@ -15,7 +15,7 @@ if(NOT TARGET render-core)
 
     FetchContent_Declare(
             render-core
-            GIT_REPOSITORY git@github.com:PolymorphEngine/render-core.git
+            GIT_REPOSITORY https://github.com/PolymorphEngine/render-core.git
             GIT_TAG main
     )
 
@@ -27,21 +27,9 @@ if(NOT TARGET raylib-render-core)
 
     FetchContent_Declare(
             raylib-render-core
-            GIT_REPOSITORY git@github.com:PolymorphEngine/raylib-render-core.git
+            GIT_REPOSITORY https://github.com/PolymorphEngine/raylib-render-core.git
             GIT_TAG main
     )
 
     FetchContent_MakeAvailable(raylib-render-core)
-endif()
-
-if(NOT TARGET raylib-render-2D)
-    include(FetchContent)
-
-    FetchContent_Declare(
-            raylib-render-2D
-            GIT_REPOSITORY git@github.com:PolymorphEngine/raylib-render-2D.git
-            GIT_TAG main
-    )
-
-    FetchContent_MakeAvailable(raylib-render-2D)
 endif()
