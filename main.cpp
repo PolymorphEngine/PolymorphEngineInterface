@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Core/Engine.hpp"
-#include "Polymorph/Core.hpp"
-#include "Polymorph/Debug.hpp"
+#include "polymorph/Core.hpp"
+#include "polymorph/Debug.hpp"
 #include "ScriptFactory.hpp"
 
 int main() {
@@ -14,15 +14,15 @@ int main() {
 #endif
     try
     {
-        Polymorph::Engine e = Polymorph::Engine(name, path, "./Plugins/");
+        polymorph::engine::Engine e = polymorph::engine::Engine(name, path, "./Plugins/");
 #ifdef _WIN32
 #else
 #endif
-        e.loadScriptingAPI(std::make_unique<Polymorph::ScriptFactory>());
+        e.loadScriptingAPI(std::make_unique<polymorph::engine::ScriptFactory>());
         e.loadEngine();
         return e.run() != 0 ? 84 : 0;
     }
-    catch (ExceptionLogger &e)
+    catch (polymorph::engine::ExceptionLogger &e)
     {
         e.what();
         return 84;

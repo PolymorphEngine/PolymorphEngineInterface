@@ -31,7 +31,6 @@
         <Debug enabled="false" logdir="./Editor/tmp" />
     </EngineSettings>
     <Plugins>
-        <Plugin name="raylib-render-2D" enabled="true"/>
         <Plugin name="raylib-render-core" enabled="true"/>
         <Plugin name="render-core" enabled="true"/>
         <Plugin name="render-2D" enabled="true"/>

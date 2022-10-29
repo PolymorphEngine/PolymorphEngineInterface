@@ -7,7 +7,7 @@
 
 #pragma once
 
-#include "Polymorph/Core.hpp"
+#include "polymorph/Core.hpp"
 
 //@Initalizers
 //${INITIALIZERS_INCLUDES}
@@ -16,7 +16,7 @@
 //${SCRIPTS_INCLUDES}
 
 
-namespace Polymorph
+namespace polymorph::engine
 {
     class ScriptFactory : public IScriptFactory
     {
@@ -34,7 +34,7 @@ namespace Polymorph
         private:
             using FactoryLambda = std::function<Initializer (Config::XmlComponent &data, GameObject entity)>;
             using F = auto (Config::XmlComponent &data, GameObject entity) -> Initializer;
-            static const inline std::map<std::string, FactoryLambda>
+            const std::map<std::string, FactoryLambda>
                 _buildables =
                 {
                     //${BUILDERS}
