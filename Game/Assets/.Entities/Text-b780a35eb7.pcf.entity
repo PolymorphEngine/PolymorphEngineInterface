@@ -31,5 +31,8 @@
                 <Vector x="0" y="0" />
             </Property>
         </Component>
+        <Component type="Test" enabled="True">
+            
+        </Component>
     </Components>
 </Entity>

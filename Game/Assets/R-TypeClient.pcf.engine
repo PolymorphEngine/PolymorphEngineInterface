@@ -14,9 +14,9 @@
             <Component value="SpriteRenderer" />
         </ComponentExecutionOrder>
         <PluginsExecutionOrder>
-            <Plugin value="physics-3D" />
+            <Plugin value="input" />
             <Plugin value="physics-2D" />
-            <Plugin value="render-3D" />
+            <Plugin value="render-core" />
             <Plugin value="render-2D" />
         </PluginsExecutionOrder>
         <PhysicsSettings>
@@ -34,6 +34,7 @@
         <Plugin name="raylib-render-core" enabled="true"/>
         <Plugin name="render-core" enabled="true"/>
         <Plugin name="render-2D" enabled="true"/>
+        <Plugin name="input" enabled="True"/>
     </Plugins>
     <Scenes>
         <Scene name="Sample scene" path="Scenes/Sample scene.pcf.scene" id="edc791e6f5" />

@@ -11,6 +11,8 @@
 
 //@Initalizers
 //${INITIALIZERS_INCLUDES}
+#include "initializers/TestInitializer.hpp"
+
 
 //@Scripts
 //${SCRIPTS_INCLUDES}
@@ -37,6 +39,7 @@ namespace polymorph::engine
             const std::map<std::string, FactoryLambda>
                 _buildables =
                 {
+                    SCRIPT(Test)
                     //${BUILDERS}
                 };
 //////////////////////--------------------------/////////////////////////

@@ -44,6 +44,7 @@ file(GLOB_RECURSE FACTORY_ICL Game/Factory/include/*.hpp)
 
 get_target_property(engine-icls PolymorphEngine INCLUDE_DIRECTORIES)
 
-add_executable(${PROJECT_NAME} ${SCRIPTS_SRC} ${SCRIPTS_ICL} ${FACTORY_SRC} ${FACTORY_ICL} main.cpp)
+add_executable(${PROJECT_NAME} ${SCRIPTS_SRC} ${SCRIPTS_ICL} ${FACTORY_SRC} ${FACTORY_ICL} ${RENDER_2D_ICLS} ${RENDER_CORE_ICLS} ${INPUT_ICLS} main.cpp)
 target_link_libraries(${PROJECT_NAME} PolymorphEngine)
 set_target_properties(PolymorphEngine PROPERTIES EXCLUDE_FROM_ALL True POSITION_INDEPENDENT_CODE ON)
+target_include_directories(${PROJECT_NAME} PUBLIC ${RENDER_2D_ICLS} ${RENDER_CORE_ICLS} ${INPUT_ICLS})
