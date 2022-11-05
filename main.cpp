@@ -2,7 +2,8 @@
 #include "Core/Engine.hpp"
 #include "polymorph/Core.hpp"
 #include "polymorph/Debug.hpp"
-#include "ScriptFactory.hpp"
+#include "Game/Factory/include/ObjectFactory.hpp"
+#include "Game/Factory/include/ScriptFactory.hpp"
 
 int main() {
 #ifdef _WIN32
@@ -18,7 +19,7 @@ int main() {
 #ifdef _WIN32
 #else
 #endif
-        e.loadScriptingAPI(std::make_unique<polymorph::engine::ScriptFactory>());
+        e.loadScriptingAPI(std::make_unique<polymorph::engine::ScriptFactory>(), std::make_unique<polymorph::engine::ObjectFactory>());
         e.loadEngine();
         return e.run() != 0 ? 84 : 0;
     }

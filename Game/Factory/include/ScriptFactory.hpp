@@ -39,7 +39,7 @@ namespace polymorph::engine
             const std::map<std::string, FactoryLambda>
                 _buildables =
                 {
-                    SCRIPT(Test)
+                    MAKE_COMPONENT(polymorph::engine, Test)
                     //${BUILDERS}
                 };
 //////////////////////--------------------------/////////////////////////

@@ -32,7 +32,7 @@ namespace polymorph::engine
             void start() override;
 
         public:
-            TextRenderer text;
+            render2D::TextRenderer text;
 
 
         public:

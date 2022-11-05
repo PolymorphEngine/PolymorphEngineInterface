@@ -24,7 +24,7 @@ namespace polymorph::engine
         if (event.key == event::KeyCode::ENTER && event.inputType == event::InputType::PRESSED) {
             _hitCount++;
             std::string msg = "Key enter pressed "+std::to_string(_hitCount)+" times";
-            //text->text->setString(msg);
+            text->text->setString(msg);
             Debug.log("Key enter pressed.");
         }
     }
@@ -36,7 +36,7 @@ namespace polymorph::engine
 
     void TestComponent::start()
     {
-        text = getComponent<TextRendererComponent>();
-        //text->text->setString("Key enter pressed 0 times");
+        text = getComponent<render2D::TextRendererComponent>();
+        text->text->setString("Key enter pressed 0 times");
     }
 }
