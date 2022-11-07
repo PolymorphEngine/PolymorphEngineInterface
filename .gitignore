@@ -1,6 +1,8 @@
 *.so
 Raylib-Project-Template
 cmake-build-debug
+build-debug
+build
 *.log
 .idea
 ../.idea
